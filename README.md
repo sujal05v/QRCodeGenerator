@@ -19,5 +19,5 @@ It helped me understand how to use external libraries and build useful real-worl
 * Generating and saving images
 * Building small utility-based applications
 # 🎯 Note
-This project is created for learning purposes by following a YouTube tutorial.
+ This project is created for learning purposes by following a YouTube tutorial.
 I built it to understand how real-world tools like QR generators work.
