@@ -4,8 +4,7 @@ A simple Python project that generates QR codes from text or links.
 
 # 💡 Overview
 
-This project was created by following a YouTube tutorial as part of my Python learning journey.
-It helped me understand how to use external libraries and build useful real-world applications.
+This project was built as part of my Python learning journey. It helped me understand how to use external libraries and develop real-world applications
 
 # ⚙️ Features
 * 🔗 Generate QR codes from text or URLs
